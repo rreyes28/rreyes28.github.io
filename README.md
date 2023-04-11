@@ -1,5 +1,5 @@
 # Rochelle-Jan Reyes
-## GitHub page
+Epidemiology, Genetics, Public Health, Interdisciplinary Computing
 
 # Education
 
